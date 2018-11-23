@@ -1,0 +1,2402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="807e77d8-940e-433f-b32b-04746cc0aff4" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../javav-se/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/thread_learn$StackDemo.coverage" NAME="StackDemo Coverage Results" MODIFIED="1521039024687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ximalaya.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/thread_learn$AtomicIntegerTest.coverage" NAME="AtomicIntegerTest Coverage Results" MODIFIED="1520242771780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ximalaya.thread.learn.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SimpleDateFormat.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/text/SimpleDateFormat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9334">
+              <caret line="411" column="8" lean-forward="false" selection-start-line="411" selection-start-column="8" selection-end-line="411" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#97080#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#23443#23444#0" expanded="false" />
+                <element signature="e#23515#23516#0" expanded="false" />
+                <element signature="e#35734#35735#0" expanded="false" />
+                <element signature="e#35807#35808#0" expanded="false" />
+                <element signature="e#36124#36125#0" expanded="false" />
+                <element signature="e#36181#36182#0" expanded="false" />
+                <element signature="e#70235#70236#0" expanded="false" />
+                <element signature="e#70278#70279#0" expanded="false" />
+                <element signature="e#88135#88136#0" expanded="false" />
+                <element signature="e#88196#88197#0" expanded="false" />
+                <element signature="e#90084#90085#0" expanded="false" />
+                <element signature="e#90114#90115#0" expanded="false" />
+                <element signature="e#90852#90853#0" expanded="false" />
+                <element signature="e#90893#90894#0" expanded="false" />
+                <element signature="e#91956#91957#0" expanded="false" />
+                <element signature="e#92016#92017#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../javav-se/src/main/java/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="126" column="5" lean-forward="false" selection-start-line="126" selection-start-column="5" selection-end-line="126" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calendar.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Calendar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75114">
+              <caret line="3016" column="28" lean-forward="false" selection-start-line="3016" selection-start-column="28" selection-end-line="3016" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#142334#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#44847#44848#0" expanded="false" />
+                <element signature="e#44933#44934#0" expanded="false" />
+                <element signature="e#64001#64002#0" expanded="false" />
+                <element signature="e#64053#64054#0" expanded="false" />
+                <element signature="e#64097#64098#0" expanded="false" />
+                <element signature="e#64167#64168#0" expanded="false" />
+                <element signature="e#64226#64227#0" expanded="false" />
+                <element signature="e#64280#64281#0" expanded="false" />
+                <element signature="e#66340#66341#0" expanded="false" />
+                <element signature="e#66409#66410#0" expanded="false" />
+                <element signature="e#69447#69448#0" expanded="false" />
+                <element signature="e#69502#69503#0" expanded="false" />
+                <element signature="e#70577#70578#0" expanded="false" />
+                <element signature="e#70627#70628#0" expanded="false" />
+                <element signature="e#71057#71058#0" expanded="false" />
+                <element signature="e#71104#71105#0" expanded="false" />
+                <element signature="e#73319#73320#0" expanded="false" />
+                <element signature="e#73355#73356#0" expanded="false" />
+                <element signature="e#73857#73858#0" expanded="false" />
+                <element signature="e#73894#73895#0" expanded="false" />
+                <element signature="e#80819#80820#0" expanded="false" />
+                <element signature="e#80863#80864#0" expanded="false" />
+                <element signature="e#92140#92141#0" expanded="false" />
+                <element signature="e#92197#92198#0" expanded="false" />
+                <element signature="e#95474#95475#0" expanded="false" />
+                <element signature="e#95529#95530#0" expanded="false" />
+                <element signature="e#95675#95676#0" expanded="false" />
+                <element signature="e#95729#95730#0" expanded="false" />
+                <element signature="e#95823#95824#0" expanded="false" />
+                <element signature="e#95877#95878#0" expanded="false" />
+                <element signature="e#96052#96053#0" expanded="false" />
+                <element signature="e#96106#96107#0" expanded="false" />
+                <element signature="e#103240#103241#0" expanded="false" />
+                <element signature="e#103287#103288#0" expanded="false" />
+                <element signature="e#103335#103336#0" expanded="false" />
+                <element signature="e#103381#103382#0" expanded="false" />
+                <element signature="e#103433#103434#0" expanded="false" />
+                <element signature="e#103486#103487#0" expanded="false" />
+                <element signature="e#103534#103535#0" expanded="false" />
+                <element signature="e#103609#103610#0" expanded="false" />
+                <element signature="e#103663#103664#0" expanded="false" />
+                <element signature="e#103708#103709#0" expanded="false" />
+                <element signature="e#104948#104949#0" expanded="false" />
+                <element signature="e#104997#104998#0" expanded="false" />
+                <element signature="e#106192#106193#0" expanded="false" />
+                <element signature="e#106240#106241#0" expanded="false" />
+                <element signature="e#111238#111239#0" expanded="false" />
+                <element signature="e#111300#111301#0" expanded="false" />
+                <element signature="e#115544#115545#0" expanded="false" />
+                <element signature="e#115571#115572#0" expanded="false" />
+                <element signature="e#115685#115686#0" expanded="false" />
+                <element signature="e#115720#115721#0" expanded="false" />
+                <element signature="e#116357#116358#0" expanded="false" />
+                <element signature="e#116395#116396#0" expanded="false" />
+                <element signature="e#116679#116680#0" expanded="false" />
+                <element signature="e#116709#116710#0" expanded="false" />
+                <element signature="e#117482#117483#0" expanded="false" />
+                <element signature="e#117519#117520#0" expanded="false" />
+                <element signature="e#118656#118657#0" expanded="false" />
+                <element signature="e#118701#118702#0" expanded="false" />
+                <element signature="e#119147#119148#0" expanded="false" />
+                <element signature="e#119175#119176#0" expanded="false" />
+                <element signature="e#119914#119915#0" expanded="false" />
+                <element signature="e#119971#119972#0" expanded="false" />
+                <element signature="e#121546#121547#0" expanded="false" />
+                <element signature="e#121603#121604#0" expanded="false" />
+                <element signature="e#122224#122225#0" expanded="false" />
+                <element signature="e#122281#122282#0" expanded="false" />
+                <element signature="e#130990#130991#0" expanded="false" />
+                <element signature="e#131030#131031#0" expanded="false" />
+                <element signature="e#142268#142269#0" expanded="false" />
+                <element signature="e#142330#142331#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GregorianCalendar.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/GregorianCalendar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56940">
+              <caret line="2254" column="31" lean-forward="false" selection-start-line="2254" selection-start-column="31" selection-end-line="2254" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#136241#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#24475#24476#0" expanded="false" />
+                <element signature="e#24544#24545#0" expanded="false" />
+                <element signature="e#25897#25898#0" expanded="false" />
+                <element signature="e#25954#25955#0" expanded="false" />
+                <element signature="e#33183#33184#0" expanded="false" />
+                <element signature="e#33232#33233#0" expanded="false" />
+                <element signature="e#34691#34692#0" expanded="false" />
+                <element signature="e#34723#34724#0" expanded="false" />
+                <element signature="e#35737#35738#0" expanded="false" />
+                <element signature="e#35804#35805#0" expanded="false" />
+                <element signature="e#44428#44429#0" expanded="false" />
+                <element signature="e#44469#44470#0" expanded="false" />
+                <element signature="e#62921#62922#0" expanded="false" />
+                <element signature="e#62961#62962#0" expanded="false" />
+                <element signature="e#83405#83406#0" expanded="false" />
+                <element signature="e#83432#83433#0" expanded="false" />
+                <element signature="e#129037#129038#0" expanded="false" />
+                <element signature="e#129097#129098#0" expanded="false" />
+                <element signature="e#129281#129282#0" expanded="false" />
+                <element signature="e#129345#129346#0" expanded="false" />
+                <element signature="e#130977#130978#0" expanded="false" />
+                <element signature="e#131028#131029#0" expanded="false" />
+                <element signature="e#132303#132304#0" expanded="false" />
+                <element signature="e#132389#132390#0" expanded="false" />
+                <element signature="e#133053#133054#0" expanded="false" />
+                <element signature="e#133110#133111#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractFactoryPatternDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../javav-se/src/main/java/pattern/AbstractFactoryPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1482">
+              <caret line="65" column="13" lean-forward="false" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="13" />
+              <folding>
+                <element signature="e#495#496#0" expanded="false" />
+                <element signature="e#537#538#0" expanded="false" />
+                <element signature="e#606#607#0" expanded="false" />
+                <element signature="e#648#649#0" expanded="false" />
+                <element signature="e#749#750#0" expanded="false" />
+                <element signature="e#788#789#0" expanded="false" />
+                <element signature="e#855#856#0" expanded="false" />
+                <element signature="e#895#896#0" expanded="false" />
+                <element signature="e#1285#1286#0" expanded="false" />
+                <element signature="e#1303#1304#0" expanded="false" />
+                <element signature="e#1395#1396#0" expanded="false" />
+                <element signature="e#1413#1414#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StrategyDesignDemo2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../javav-se/src/main/java/pattern/StrategyDesignDemo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#657#658#0" expanded="false" />
+                <element signature="e#720#721#0" expanded="false" />
+                <element signature="e#949#950#0" expanded="false" />
+                <element signature="e#994#995#0" expanded="false" />
+                <element signature="e#1188#1189#0" expanded="false" />
+                <element signature="e#1210#1211#0" expanded="false" />
+                <element signature="e#1331#1332#0" expanded="false" />
+                <element signature="e#1359#1360#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StrategyDesignDemo3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../javav-se/src/main/java/pattern/StrategyDesignDemo3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+              <folding>
+                <element signature="e#214#215#0" expanded="false" />
+                <element signature="e#255#256#0" expanded="false" />
+                <element signature="e#335#336#0" expanded="false" />
+                <element signature="e#377#378#0" expanded="false" />
+                <element signature="e#463#464#0" expanded="false" />
+                <element signature="e#491#492#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ByteBuffer.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/ByteBuffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7488">
+              <caret line="317" column="6" lean-forward="false" selection-start-line="317" selection-start-column="6" selection-end-line="317" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#55847#0" expanded="false" />
+                <element signature="e#8515#8516#0" expanded="false" />
+                <element signature="e#8584#8585#0" expanded="false" />
+                <element signature="e#9208#9209#0" expanded="false" />
+                <element signature="e#9261#9262#0" expanded="false" />
+                <element signature="e#12369#12370#0" expanded="false" />
+                <element signature="e#12420#12421#0" expanded="false" />
+                <element signature="e#19972#19973#0" expanded="false" />
+                <element signature="e#20018#20019#0" expanded="false" />
+                <element signature="e#25207#25208#0" expanded="false" />
+                <element signature="e#25253#25254#0" expanded="false" />
+                <element signature="e#25815#25816#0" expanded="false" />
+                <element signature="e#25865#25866#0" expanded="false" />
+                <element signature="e#34416#34417#0" expanded="false" />
+                <element signature="e#34497#34498#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40066">
+              <caret line="1606" column="64" lean-forward="false" selection-start-line="1606" selection-start-column="64" selection-end-line="1606" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#124311#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#4677#4678#0" expanded="false" />
+                <element signature="e#4714#4715#0" expanded="false" />
+                <element signature="e#5687#5688#0" expanded="false" />
+                <element signature="e#5750#5751#0" expanded="false" />
+                <element signature="e#13098#13099#0" expanded="false" />
+                <element signature="e#13150#13151#0" expanded="false" />
+                <element signature="e#18781#18782#0" expanded="false" />
+                <element signature="e#18834#18835#0" expanded="false" />
+                <element signature="e#20727#20728#0" expanded="false" />
+                <element signature="e#20771#20772#0" expanded="false" />
+                <element signature="e#21961#21962#0" expanded="false" />
+                <element signature="e#22041#22042#0" expanded="false" />
+                <element signature="e#22786#22787#0" expanded="false" />
+                <element signature="e#22821#22822#0" expanded="false" />
+                <element signature="e#23072#23073#0" expanded="false" />
+                <element signature="e#23112#23113#0" expanded="false" />
+                <element signature="e#29462#29463#0" expanded="false" />
+                <element signature="e#29533#29534#0" expanded="false" />
+                <element signature="e#36393#36394#0" expanded="false" />
+                <element signature="e#36459#36460#0" expanded="false" />
+                <element signature="e#38369#38370#0" expanded="false" />
+                <element signature="e#38423#38424#0" expanded="false" />
+                <element signature="e#47538#47539#0" expanded="false" />
+                <element signature="e#47602#47603#0" expanded="false" />
+                <element signature="e#55800#55801#0" expanded="false" />
+                <element signature="e#55844#55845#0" expanded="false" />
+                <element signature="e#56437#56438#0" expanded="false" />
+                <element signature="e#56514#56515#0" expanded="false" />
+                <element signature="e#58481#58482#0" expanded="false" />
+                <element signature="e#58518#58519#0" expanded="false" />
+                <element signature="e#62860#62861#0" expanded="false" />
+                <element signature="e#62916#62917#0" expanded="false" />
+                <element signature="e#66457#66458#0" expanded="false" />
+                <element signature="e#66495#66496#0" expanded="false" />
+                <element signature="e#70749#70750#0" expanded="false" />
+                <element signature="e#70802#70803#0" expanded="false" />
+                <element signature="e#78240#78241#0" expanded="false" />
+                <element signature="e#78299#78300#0" expanded="false" />
+                <element signature="e#82616#82617#0" expanded="false" />
+                <element signature="e#82667#82668#0" expanded="false" />
+                <element signature="e#82971#82972#0" expanded="false" />
+                <element signature="e#83020#83021#0" expanded="false" />
+                <element signature="e#94598#94599#0" expanded="false" />
+                <element signature="e#94636#94637#0" expanded="false" />
+                <element signature="e#104675#104676#0" expanded="false" />
+                <element signature="e#104730#104731#0" expanded="false" />
+                <element signature="e#111196#111197#0" expanded="false" />
+                <element signature="e#111251#111252#0" expanded="false" />
+                <element signature="e#113343#113344#0" expanded="false" />
+                <element signature="e#113370#113371#0" expanded="false" />
+                <element signature="e#117893#117894#0" expanded="false" />
+                <element signature="e#117955#117956#0" expanded="false" />
+                <element signature="e#118405#118406#0" expanded="false" />
+                <element signature="e#118444#118445#0" expanded="false" />
+                <element signature="e#119456#119457#0" expanded="false" />
+                <element signature="e#119510#119511#0" expanded="false" />
+                <element signature="e#120159#120160#0" expanded="false" />
+                <element signature="e#120213#120214#0" expanded="false" />
+                <element signature="e#120482#120483#0" expanded="false" />
+                <element signature="e#120521#120522#0" expanded="false" />
+                <element signature="e#120889#120890#0" expanded="false" />
+                <element signature="e#120932#120933#0" expanded="false" />
+                <element signature="e#121727#121728#0" expanded="false" />
+                <element signature="e#121769#121770#0" expanded="false" />
+                <element signature="e#122184#122185#0" expanded="false" />
+                <element signature="e#122223#122224#0" expanded="false" />
+                <element signature="e#122645#122646#0" expanded="false" />
+                <element signature="e#122685#122686#0" expanded="false" />
+                <element signature="e#123115#123116#0" expanded="false" />
+                <element signature="e#123156#123157#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="System.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/System.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7566">
+              <caret line="333" column="0" lean-forward="false" selection-start-line="333" selection-start-column="0" selection-end-line="333" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#53706#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#10898#11156#0" expanded="false" />
+                <element signature="e#11155#11156#0" expanded="false" />
+                <element signature="e#26565#26566#0" expanded="false" />
+                <element signature="e#26601#26602#0" expanded="false" />
+                <element signature="e#40171#40172#0" expanded="false" />
+                <element signature="e#40220#40221#0" expanded="false" />
+                <element signature="e#40917#40918#0" expanded="false" />
+                <element signature="e#40958#40959#0" expanded="false" />
+                <element signature="e#41780#41781#0" expanded="false" />
+                <element signature="e#41834#41835#0" expanded="false" />
+                <element signature="e#43077#43078#0" expanded="false" />
+                <element signature="e#43127#43128#0" expanded="false" />
+                <element signature="e#44970#44971#0" expanded="false" />
+                <element signature="e#45051#45052#0" expanded="false" />
+                <element signature="e#51559#51560#0" expanded="false" />
+                <element signature="e#51621#51622#0" expanded="false" />
+                <element signature="e#51882#51883#0" expanded="false" />
+                <element signature="e#51946#51947#0" expanded="false" />
+                <element signature="e#52191#52192#0" expanded="false" />
+                <element signature="e#52255#52256#0" expanded="false" />
+                <element signature="e#52326#52327#0" expanded="false" />
+                <element signature="e#52394#52395#0" expanded="false" />
+                <element signature="e#52670#52671#0" expanded="false" />
+                <element signature="e#52739#52740#0" expanded="false" />
+                <element signature="e#52802#52803#0" expanded="false" />
+                <element signature="e#52848#52849#0" expanded="false" />
+                <element signature="e#53097#53098#0" expanded="false" />
+                <element signature="e#53158#53159#0" expanded="false" />
+                <element signature="e#53238#53239#0" expanded="false" />
+                <element signature="e#53302#53303#0" expanded="false" />
+                <element signature="e#53360#53361#0" expanded="false" />
+                <element signature="e#53422#53423#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>threadStatus</find>
+      <find>64</find>
+      <find>empty</find>
+      <find>clone</find>
+      <find>state</find>
+      <find>defaultUncaughtExceptionHandler</find>
+      <find>group</find>
+      <find>uncaughtException</find>
+      <find>theUnsafe</find>
+      <find>objectFieldOffset</find>
+      <find>outcome</find>
+      <find>new Scanner(System.in)</find>
+      <find>new Scanner</find>
+      <find>in</find>
+      <find>textOut</find>
+      <find>getWeeksInWeekYear</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/../javav-se/src</dir>
+      <dir>$PROJECT_DIR$/../javav-se</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/core/one/generic/CoffeGenerator.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/core/one/generic/GenericArray.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/core/one/generic/Sets.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/core/one/Test.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/core/one/generic/HasF.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/core/one/generic/ClasTypeCapture.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/core/one/generic/ClassAsFactory.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/core/one/generic/GenericWithCreat.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/core/one/generic/FactoryConstraint.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/core/one/generic/ArrayOfGeneric.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/core/one/generic/ArrayMaker.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/core/one/generic/GenericBase.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/TryWithResourceTest.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/thread/InitiativeCatch.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/thread/NoCatchThread.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/lock/LockTest.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/lock/Bank.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/thread/unsynch/Bank.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/thread/ExeceptionThread2.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/anno/innerclass/AnnoInterface.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/anno/innerclass/AnnoInner.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/thread/UniqueThreadIdGenerator.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/thread/blocking/BlockingQueueTest.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/iterable/MultiIterator.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/thread/blocking/BlockingQueueTest2.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/thread/future/FutureTest.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/util/RandomAccessTest.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/thread/TimeUnitTest.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/thread/Test2.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/thread/synchronize/SynchronizedClass.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/thread/synchronize/SynchronizedTest.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/com/randy/randy2/Test3.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/com/randy/Test.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/com/Test4.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/com/ximalaya/UtilityClassTest.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/com/randy/Test2.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/core2/io/InputStreamReaderTest.java" />
+        <option value="$PROJECT_DIR$/../javav-se/pom.xml" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/core2/Test2.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/core2/nio/NioTest.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/core2/nio/FileChannelTest.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/core2/nio/FilesTest.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/pattern/FactoryPatterDemo.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/pattern/StrategyDesignDemo.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/pattern/StrategyDesignDemo2.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/pattern/StrategyDesignDemo3.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/1.md" />
+        <option value="$PROJECT_DIR$/../javav-se/src/总结.md" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/pattern/AdapterPatternDemo.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/pattern/AbstractFactoryPatternDemo.java" />
+        <option value="$PROJECT_DIR$/../javav-se/src/main/java/Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="generatedSourcesFolder" value="IGNORE" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="977" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Groovy</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thread-learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javav-se" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thread-learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javav-se" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thread-learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javav-se" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thread-learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javav-se" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thread-learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javav-se" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25490198" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../javav-se/src/main/java/thread/blocking" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Test.testSimpleDatFormat">
+    <configuration default="false" name="StrategyDesignDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="pattern.StrategyDesignDemo2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javav-se" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="AbstractFactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="pattern.AbstractFactoryPatternDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javav-se" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="AdapterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="pattern.AdapterPatternDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javav-se" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test.test22" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="javav-se" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="test22" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test.testSimpleDatFormat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="javav-se" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="testSimpleDatFormat" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="BatchConfigurationType" factoryName="Batch">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="thread-learn" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="GenericArray" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="java.core.one.generic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="java.core.one.generic.GenericArray" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javav-se" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Application.GenericArray" />
+      <item index="1" class="java.lang.String" itemvalue="Application.StrategyDesignDemo2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.AbstractFactoryPatternDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.AdapterPatternDemo" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Test.test22" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.Test.testSimpleDatFormat" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Test.testSimpleDatFormat" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Test.test22" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AdapterPatternDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.AbstractFactoryPatternDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.StrategyDesignDemo2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INTERFACES,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration" myUseAcceleration="nothing" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="807e77d8-940e-433f-b32b-04746cc0aff4" name="Default" comment="" />
+      <created>1518395560855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518395560855</updated>
+      <workItem from="1518395565664" duration="9935000" />
+      <workItem from="1518572151824" duration="15663000" />
+      <workItem from="1519344876720" duration="598000" />
+      <workItem from="1519349995801" duration="1204000" />
+      <workItem from="1519436484072" duration="16430000" />
+      <workItem from="1519526686042" duration="3537000" />
+      <workItem from="1519543403557" duration="3925000" />
+      <workItem from="1519552424084" duration="5475000" />
+      <workItem from="1519649004398" duration="1608000" />
+      <workItem from="1519718898980" duration="594000" />
+      <workItem from="1519738904152" duration="598000" />
+      <workItem from="1519782142430" duration="1768000" />
+      <workItem from="1519868742998" duration="1795000" />
+      <workItem from="1519956352709" duration="1195000" />
+      <workItem from="1520149053860" duration="598000" />
+      <workItem from="1520152367036" duration="561000" />
+      <workItem from="1520214440054" duration="4597000" />
+      <workItem from="1520254303118" duration="3076000" />
+      <workItem from="1520387076427" duration="2704000" />
+      <workItem from="1520420901873" duration="124000" />
+      <workItem from="1520473577454" duration="6094000" />
+      <workItem from="1520560207405" duration="2344000" />
+      <workItem from="1520733910877" duration="432000" />
+      <workItem from="1520735210391" duration="808000" />
+      <workItem from="1520736673212" duration="1293000" />
+      <workItem from="1520946747474" duration="3814000" />
+      <workItem from="1520953882676" duration="1138000" />
+      <workItem from="1520991965736" duration="828000" />
+      <workItem from="1521036985347" duration="2510000" />
+      <workItem from="1521078400756" duration="5047000" />
+      <workItem from="1521120501258" duration="597000" />
+      <workItem from="1521164940641" duration="597000" />
+      <workItem from="1521206316557" duration="598000" />
+      <workItem from="1521468220485" duration="3000000" />
+      <workItem from="1521510040454" duration="2811000" />
+      <workItem from="1521548029455" duration="2567000" />
+      <workItem from="1521591211697" duration="133000" />
+      <workItem from="1521596607097" duration="1203000" />
+      <workItem from="1521682934062" duration="3507000" />
+      <workItem from="1521762246257" duration="404000" />
+      <workItem from="1521769489236" duration="1311000" />
+      <workItem from="1521775904847" duration="5397000" />
+      <workItem from="1521812046837" duration="595000" />
+      <workItem from="1521854207828" duration="1785000" />
+      <workItem from="1522029082811" duration="829000" />
+      <workItem from="1522031797937" duration="28000" />
+      <workItem from="1523170334337" duration="2627000" />
+      <workItem from="1523602499989" duration="27000" />
+      <workItem from="1523602857006" duration="750000" />
+      <workItem from="1523801614386" duration="598000" />
+      <workItem from="1523843362601" duration="597000" />
+      <workItem from="1523884148342" duration="357000" />
+      <workItem from="1523929386785" duration="225000" />
+      <workItem from="1525833536505" duration="2214000" />
+      <workItem from="1527518106406" duration="1515000" />
+      <workItem from="1527558449550" duration="233000" />
+      <workItem from="1529458057598" duration="3356000" />
+      <workItem from="1529492272107" duration="4979000" />
+      <workItem from="1529503988060" duration="945000" />
+      <workItem from="1529539224028" duration="67000" />
+      <workItem from="1529543486413" duration="7826000" />
+      <workItem from="1529575490126" duration="598000" />
+      <workItem from="1529589729742" duration="2955000" />
+      <workItem from="1529630320557" duration="4671000" />
+      <workItem from="1529646460638" duration="1080000" />
+      <workItem from="1529647604649" duration="406000" />
+      <workItem from="1529648117188" duration="2397000" />
+      <workItem from="1529673110143" duration="952000" />
+      <workItem from="1529720882598" duration="13654000" />
+      <workItem from="1529889729844" duration="5193000" />
+      <workItem from="1529931668436" duration="6311000" />
+      <workItem from="1529975530801" duration="12474000" />
+      <workItem from="1530021673970" duration="4327000" />
+      <workItem from="1530062552624" duration="10607000" />
+      <workItem from="1530152061812" duration="3938000" />
+      <workItem from="1530195030811" duration="173000" />
+      <workItem from="1530236778648" duration="1436000" />
+      <workItem from="1530349535955" duration="3615000" />
+      <workItem from="1530354813871" duration="1116000" />
+      <workItem from="1530417317545" duration="596000" />
+      <workItem from="1530496281808" duration="1691000" />
+      <workItem from="1530509646027" duration="2744000" />
+      <workItem from="1530537707844" duration="2497000" />
+      <workItem from="1530582139133" duration="13419000" />
+      <workItem from="1530626764129" duration="4019000" />
+      <workItem from="1530668423849" duration="5243000" />
+      <workItem from="1530714241333" duration="820000" />
+      <workItem from="1530753680589" duration="3173000" />
+      <workItem from="1530793834116" duration="3446000" />
+      <workItem from="1530841179497" duration="260000" />
+      <workItem from="1530841676466" duration="1217000" />
+      <workItem from="1530871437012" duration="596000" />
+      <workItem from="1530944732603" duration="9848000" />
+      <workItem from="1530959244505" duration="155000" />
+      <workItem from="1531099351343" duration="8451000" />
+      <workItem from="1531116903151" duration="3696000" />
+      <workItem from="1531140830238" duration="598000" />
+      <workItem from="1531187199022" duration="12162000" />
+      <workItem from="1531229663790" duration="2137000" />
+      <workItem from="1531273435761" duration="4144000" />
+      <workItem from="1531298117772" duration="6374000" />
+      <workItem from="1531314719540" duration="329000" />
+      <workItem from="1531359848142" duration="7298000" />
+      <workItem from="1531401716589" duration="775000" />
+      <workItem from="1531446215636" duration="2935000" />
+      <workItem from="1531484961998" duration="1859000" />
+      <workItem from="1531541336657" duration="599000" />
+      <workItem from="1531551342413" duration="242000" />
+      <workItem from="1531618339448" duration="1344000" />
+      <workItem from="1531705191785" duration="3629000" />
+      <workItem from="1531790927570" duration="2905000" />
+      <workItem from="1531835748037" duration="1190000" />
+      <workItem from="1531841314595" duration="94000" />
+      <workItem from="1531877196926" duration="777000" />
+      <workItem from="1531964520148" duration="3382000" />
+      <workItem from="1532008018797" duration="1194000" />
+      <workItem from="1532050895294" duration="5622000" />
+      <workItem from="1532087064561" duration="103000" />
+      <workItem from="1532237105988" duration="596000" />
+      <workItem from="1532268649950" duration="1130000" />
+      <workItem from="1532310148589" duration="5372000" />
+      <workItem from="1532349941772" duration="224000" />
+      <workItem from="1532396215612" duration="4360000" />
+      <workItem from="1532437147819" duration="567000" />
+      <workItem from="1532446549351" duration="605000" />
+      <workItem from="1532482801243" duration="1449000" />
+      <workItem from="1532524682789" duration="130000" />
+      <workItem from="1532571025842" duration="2383000" />
+      <workItem from="1532581399985" duration="644000" />
+      <workItem from="1532613397777" duration="998000" />
+      <workItem from="1532656131789" duration="1199000" />
+      <workItem from="1532935793830" duration="1715000" />
+      <workItem from="1532960420432" duration="530000" />
+      <workItem from="1532961134976" duration="3948000" />
+      <workItem from="1533102103215" duration="7551000" />
+      <workItem from="1533178160541" duration="5106000" />
+      <workItem from="1533535598055" duration="4901000" />
+      <workItem from="1533559951358" duration="591000" />
+      <workItem from="1533606319107" duration="1998000" />
+      <workItem from="1533652682739" duration="119000" />
+      <workItem from="1533692314659" duration="473000" />
+      <workItem from="1533715145825" duration="596000" />
+      <workItem from="1533772526885" duration="597000" />
+      <workItem from="1533778575230" duration="592000" />
+      <workItem from="1533823258552" duration="596000" />
+      <workItem from="1533859238207" duration="595000" />
+      <workItem from="1533865405515" duration="597000" />
+      <workItem from="1535098117356" duration="5077000" />
+      <workItem from="1535116776399" duration="25000" />
+      <workItem from="1535182331412" duration="700000" />
+      <workItem from="1535248543786" duration="593000" />
+      <workItem from="1535333591519" duration="1624000" />
+      <workItem from="1535420064709" duration="596000" />
+      <workItem from="1535465646176" duration="598000" />
+      <workItem from="1535510481294" duration="6058000" />
+      <workItem from="1535550158496" duration="216000" />
+      <workItem from="1535592147007" duration="2505000" />
+      <workItem from="1535640967729" duration="595000" />
+      <workItem from="1535671741830" duration="911000" />
+      <workItem from="1535678396528" duration="595000" />
+      <workItem from="1535859010301" duration="597000" />
+      <workItem from="1535938602435" duration="598000" />
+      <workItem from="1535981881509" duration="598000" />
+      <workItem from="1536018209521" duration="597000" />
+      <workItem from="1536024945497" duration="1197000" />
+      <workItem from="1536072857275" duration="598000" />
+      <workItem from="1536111181287" duration="3246000" />
+      <workItem from="1536284268384" duration="1593000" />
+      <workItem from="1536323845065" duration="189000" />
+      <workItem from="1536419359708" duration="596000" />
+      <workItem from="1536453860054" duration="596000" />
+      <workItem from="1536470276975" duration="595000" />
+      <workItem from="1536481194992" duration="7000" />
+      <workItem from="1536543046014" duration="1195000" />
+      <workItem from="1536629259363" duration="596000" />
+      <workItem from="1536709199975" duration="4388000" />
+      <workItem from="1537172854913" duration="8279000" />
+      <workItem from="1537185630772" duration="1084000" />
+      <workItem from="1537191612082" duration="598000" />
+      <workItem from="1537234408911" duration="3758000" />
+      <workItem from="1537260892670" duration="4154000" />
+      <workItem from="1537320064145" duration="4015000" />
+      <workItem from="1537406825579" duration="2505000" />
+      <workItem from="1537581815054" duration="2258000" />
+      <workItem from="1537954700955" duration="2683000" />
+      <workItem from="1537972764311" duration="11189000" />
+      <workItem from="1538098132798" duration="915000" />
+      <workItem from="1538127851841" duration="1557000" />
+      <workItem from="1538138063561" duration="588000" />
+      <workItem from="1538961031581" duration="1506000" />
+      <workItem from="1538989721756" duration="6785000" />
+      <workItem from="1539047043014" duration="3863000" />
+      <workItem from="1539858263869" duration="2157000" />
+      <workItem from="1539911760997" duration="7898000" />
+      <workItem from="1539955192038" duration="173000" />
+      <workItem from="1540091258547" duration="164000" />
+      <workItem from="1540171630332" duration="190000" />
+      <workItem from="1542963087117" duration="685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_testSimpleDatFormat - 2018.10.19 at 09h 52m 49s.xml">
+      <configuration name="Test.testSimpleDatFormat" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testSimpleDatFormat - 2018.10.19 at 09h 53m 05s.xml">
+      <configuration name="Test.testSimpleDatFormat" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testSimpleDatFormat - 2018.10.19 at 09h 54m 01s.xml">
+      <configuration name="Test.testSimpleDatFormat" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testSimpleDatFormat - 2018.10.19 at 10h 02m 27s.xml">
+      <configuration name="Test.testSimpleDatFormat" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testSimpleDatFormat - 2018.10.19 at 10h 02m 50s.xml">
+      <configuration name="Test.testSimpleDatFormat" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testSimpleDatFormat - 2018.10.19 at 10h 02m 57s.xml">
+      <configuration name="Test.testSimpleDatFormat" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testSimpleDatFormat - 2018.10.19 at 10h 08m 44s.xml">
+      <configuration name="Test.testSimpleDatFormat" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testSimpleDatFormat - 2018.10.19 at 10h 09m 27s.xml">
+      <configuration name="Test.testSimpleDatFormat" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testSimpleDatFormat - 2018.10.19 at 10h 14m 23s.xml">
+      <configuration name="Test.testSimpleDatFormat" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testSimpleDatFormat - 2018.10.19 at 10h 44m 33s.xml">
+      <configuration name="Test.testSimpleDatFormat" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="503882000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="977" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27909604" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48022598" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2657082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25292864" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" x="441" y="69" width="397" height="605" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3242938" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="418" y="288" width="444" height="167" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32768363" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../javav-se/src/main/java/thread/InitiativeCatch.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/cs/StreamEncoder.class</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/cs/StreamEncoder.class</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../javav-se/src/main/java/core2/nio/NioTest.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../javav-se/src/main/java/Test.java</url>
+          <line>121</line>
+          <properties class="Test" method="test22">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="32" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-validator/commons-validator/1.6/commons-validator-1.6-sources.jar!/org/apache/commons/validator/routines/InetAddressValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1274">
+          <caret line="67" column="39" lean-forward="false" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/file/Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="134" column="21" lean-forward="false" selection-start-line="134" selection-start-column="21" selection-end-line="134" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javav-se/src/main/java/core2/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/file/Paths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="130" column="37" lean-forward="true" selection-start-line="130" selection-start-column="37" selection-end-line="130" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/file/FileSystems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="174" column="43" lean-forward="true" selection-start-line="174" selection-start-column="43" selection-end-line="174" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/file/FileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="111" column="28" lean-forward="true" selection-start-line="111" selection-start-column="28" selection-end-line="111" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/file/spi/FileSystemProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="87" column="33" lean-forward="false" selection-start-line="87" selection-start-column="33" selection-end-line="87" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3406">
+          <caret line="156" column="36" lean-forward="false" selection-start-line="156" selection-start-column="36" selection-end-line="156" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/BufferedWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2626">
+          <caret line="126" column="20" lean-forward="false" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/FilterOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="50" column="7" lean-forward="false" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4238">
+          <caret line="192" column="6" lean-forward="false" selection-start-line="192" selection-start-column="6" selection-end-line="192" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/SecurityManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4888">
+          <caret line="226" column="21" lean-forward="false" selection-start-line="226" selection-start-column="6" selection-end-line="226" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javav-se/src/main/java/core2/nio/NioTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="20" column="59" lean-forward="false" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11570">
+          <caret line="508" column="0" lean-forward="false" selection-start-line="508" selection-start-column="0" selection-end-line="508" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48802">
+          <caret line="2034" column="0" lean-forward="false" selection-start-line="2034" selection-start-column="0" selection-end-line="2034" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4706">
+          <caret line="218" column="0" lean-forward="false" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15730">
+          <caret line="676" column="39" lean-forward="false" selection-start-line="676" selection-start-column="39" selection-end-line="676" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/HeapByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="52" column="6" lean-forward="false" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/RandomAccessFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7254">
+          <caret line="303" column="30" lean-forward="false" selection-start-line="303" selection-start-column="30" selection-end-line="303" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9594">
+          <caret line="400" column="25" lean-forward="false" selection-start-line="400" selection-start-column="25" selection-end-line="400" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14742">
+          <caret line="610" column="0" lean-forward="false" selection-start-line="610" selection-start-column="0" selection-end-line="610" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Launcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5824">
+          <caret line="254" column="0" lean-forward="false" selection-start-line="254" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5850">
+          <caret line="285" column="0" lean-forward="false" selection-start-line="285" selection-start-column="0" selection-end-line="285" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javav-se/src/main/java/core2/nio/FileChannelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/file/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68978">
+          <caret line="2738" column="23" lean-forward="false" selection-start-line="2738" selection-start-column="23" selection-end-line="2738" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/file/FileVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3328">
+          <caret line="152" column="20" lean-forward="false" selection-start-line="152" selection-start-column="20" selection-end-line="152" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/file/SimpleFileVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="59" column="33" lean-forward="false" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/file/FileVisitResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="38" column="10" lean-forward="false" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quartz_learn/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../quartz_learn/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../javav-se/src/main/java/core2/nio/FilesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread-learn.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javav-se/src/main/java/pattern/FactoryPatterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15782">
+          <caret line="663" column="41" lean-forward="false" selection-start-line="663" selection-start-column="41" selection-end-line="663" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javav-se/src/main/java/pattern/AdapterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javav-se/src/总结.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="442">
+            <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javav-se/src/main/java/pattern/AdapterPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1872">
+          <caret line="76" column="57" lean-forward="false" selection-start-line="76" selection-start-column="57" selection-end-line="76" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/time/LocalDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4446">
+          <caret line="273" column="72" lean-forward="false" selection-start-line="273" selection-start-column="72" selection-end-line="273" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javav-se/src/main/java/pattern/StrategyDesignDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/text/SimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9334">
+          <caret line="411" column="8" lean-forward="false" selection-start-line="411" selection-start-column="8" selection-end-line="411" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#97080#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#23443#23444#0" expanded="false" />
+            <element signature="e#23515#23516#0" expanded="false" />
+            <element signature="e#35734#35735#0" expanded="false" />
+            <element signature="e#35807#35808#0" expanded="false" />
+            <element signature="e#36124#36125#0" expanded="false" />
+            <element signature="e#36181#36182#0" expanded="false" />
+            <element signature="e#70235#70236#0" expanded="false" />
+            <element signature="e#70278#70279#0" expanded="false" />
+            <element signature="e#88135#88136#0" expanded="false" />
+            <element signature="e#88196#88197#0" expanded="false" />
+            <element signature="e#90084#90085#0" expanded="false" />
+            <element signature="e#90114#90115#0" expanded="false" />
+            <element signature="e#90852#90853#0" expanded="false" />
+            <element signature="e#90893#90894#0" expanded="false" />
+            <element signature="e#91956#91957#0" expanded="false" />
+            <element signature="e#92016#92017#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75114">
+          <caret line="3016" column="28" lean-forward="false" selection-start-line="3016" selection-start-column="28" selection-end-line="3016" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#142334#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#44847#44848#0" expanded="false" />
+            <element signature="e#44933#44934#0" expanded="false" />
+            <element signature="e#64001#64002#0" expanded="false" />
+            <element signature="e#64053#64054#0" expanded="false" />
+            <element signature="e#64097#64098#0" expanded="false" />
+            <element signature="e#64167#64168#0" expanded="false" />
+            <element signature="e#64226#64227#0" expanded="false" />
+            <element signature="e#64280#64281#0" expanded="false" />
+            <element signature="e#66340#66341#0" expanded="false" />
+            <element signature="e#66409#66410#0" expanded="false" />
+            <element signature="e#69447#69448#0" expanded="false" />
+            <element signature="e#69502#69503#0" expanded="false" />
+            <element signature="e#70577#70578#0" expanded="false" />
+            <element signature="e#70627#70628#0" expanded="false" />
+            <element signature="e#71057#71058#0" expanded="false" />
+            <element signature="e#71104#71105#0" expanded="false" />
+            <element signature="e#73319#73320#0" expanded="false" />
+            <element signature="e#73355#73356#0" expanded="false" />
+            <element signature="e#73857#73858#0" expanded="false" />
+            <element signature="e#73894#73895#0" expanded="false" />
+            <element signature="e#80819#80820#0" expanded="false" />
+            <element signature="e#80863#80864#0" expanded="false" />
+            <element signature="e#92140#92141#0" expanded="false" />
+            <element signature="e#92197#92198#0" expanded="false" />
+            <element signature="e#95474#95475#0" expanded="false" />
+            <element signature="e#95529#95530#0" expanded="false" />
+            <element signature="e#95675#95676#0" expanded="false" />
+            <element signature="e#95729#95730#0" expanded="false" />
+            <element signature="e#95823#95824#0" expanded="false" />
+            <element signature="e#95877#95878#0" expanded="false" />
+            <element signature="e#96052#96053#0" expanded="false" />
+            <element signature="e#96106#96107#0" expanded="false" />
+            <element signature="e#103240#103241#0" expanded="false" />
+            <element signature="e#103287#103288#0" expanded="false" />
+            <element signature="e#103335#103336#0" expanded="false" />
+            <element signature="e#103381#103382#0" expanded="false" />
+            <element signature="e#103433#103434#0" expanded="false" />
+            <element signature="e#103486#103487#0" expanded="false" />
+            <element signature="e#103534#103535#0" expanded="false" />
+            <element signature="e#103609#103610#0" expanded="false" />
+            <element signature="e#103663#103664#0" expanded="false" />
+            <element signature="e#103708#103709#0" expanded="false" />
+            <element signature="e#104948#104949#0" expanded="false" />
+            <element signature="e#104997#104998#0" expanded="false" />
+            <element signature="e#106192#106193#0" expanded="false" />
+            <element signature="e#106240#106241#0" expanded="false" />
+            <element signature="e#111238#111239#0" expanded="false" />
+            <element signature="e#111300#111301#0" expanded="false" />
+            <element signature="e#115544#115545#0" expanded="false" />
+            <element signature="e#115571#115572#0" expanded="false" />
+            <element signature="e#115685#115686#0" expanded="false" />
+            <element signature="e#115720#115721#0" expanded="false" />
+            <element signature="e#116357#116358#0" expanded="false" />
+            <element signature="e#116395#116396#0" expanded="false" />
+            <element signature="e#116679#116680#0" expanded="false" />
+            <element signature="e#116709#116710#0" expanded="false" />
+            <element signature="e#117482#117483#0" expanded="false" />
+            <element signature="e#117519#117520#0" expanded="false" />
+            <element signature="e#118656#118657#0" expanded="false" />
+            <element signature="e#118701#118702#0" expanded="false" />
+            <element signature="e#119147#119148#0" expanded="false" />
+            <element signature="e#119175#119176#0" expanded="false" />
+            <element signature="e#119914#119915#0" expanded="false" />
+            <element signature="e#119971#119972#0" expanded="false" />
+            <element signature="e#121546#121547#0" expanded="false" />
+            <element signature="e#121603#121604#0" expanded="false" />
+            <element signature="e#122224#122225#0" expanded="false" />
+            <element signature="e#122281#122282#0" expanded="false" />
+            <element signature="e#130990#130991#0" expanded="false" />
+            <element signature="e#131030#131031#0" expanded="false" />
+            <element signature="e#142268#142269#0" expanded="false" />
+            <element signature="e#142330#142331#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/GregorianCalendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56940">
+          <caret line="2254" column="31" lean-forward="false" selection-start-line="2254" selection-start-column="31" selection-end-line="2254" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#136241#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#24475#24476#0" expanded="false" />
+            <element signature="e#24544#24545#0" expanded="false" />
+            <element signature="e#25897#25898#0" expanded="false" />
+            <element signature="e#25954#25955#0" expanded="false" />
+            <element signature="e#33183#33184#0" expanded="false" />
+            <element signature="e#33232#33233#0" expanded="false" />
+            <element signature="e#34691#34692#0" expanded="false" />
+            <element signature="e#34723#34724#0" expanded="false" />
+            <element signature="e#35737#35738#0" expanded="false" />
+            <element signature="e#35804#35805#0" expanded="false" />
+            <element signature="e#44428#44429#0" expanded="false" />
+            <element signature="e#44469#44470#0" expanded="false" />
+            <element signature="e#62921#62922#0" expanded="false" />
+            <element signature="e#62961#62962#0" expanded="false" />
+            <element signature="e#83405#83406#0" expanded="false" />
+            <element signature="e#83432#83433#0" expanded="false" />
+            <element signature="e#129037#129038#0" expanded="false" />
+            <element signature="e#129097#129098#0" expanded="false" />
+            <element signature="e#129281#129282#0" expanded="false" />
+            <element signature="e#129345#129346#0" expanded="false" />
+            <element signature="e#130977#130978#0" expanded="false" />
+            <element signature="e#131028#131029#0" expanded="false" />
+            <element signature="e#132303#132304#0" expanded="false" />
+            <element signature="e#132389#132390#0" expanded="false" />
+            <element signature="e#133053#133054#0" expanded="false" />
+            <element signature="e#133110#133111#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javav-se/src/main/java/pattern/AbstractFactoryPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="65" column="13" lean-forward="false" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="13" />
+          <folding>
+            <element signature="e#495#496#0" expanded="false" />
+            <element signature="e#537#538#0" expanded="false" />
+            <element signature="e#606#607#0" expanded="false" />
+            <element signature="e#648#649#0" expanded="false" />
+            <element signature="e#749#750#0" expanded="false" />
+            <element signature="e#788#789#0" expanded="false" />
+            <element signature="e#855#856#0" expanded="false" />
+            <element signature="e#895#896#0" expanded="false" />
+            <element signature="e#1285#1286#0" expanded="false" />
+            <element signature="e#1303#1304#0" expanded="false" />
+            <element signature="e#1395#1396#0" expanded="false" />
+            <element signature="e#1413#1414#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javav-se/src/main/java/pattern/StrategyDesignDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#657#658#0" expanded="false" />
+            <element signature="e#720#721#0" expanded="false" />
+            <element signature="e#949#950#0" expanded="false" />
+            <element signature="e#994#995#0" expanded="false" />
+            <element signature="e#1188#1189#0" expanded="false" />
+            <element signature="e#1210#1211#0" expanded="false" />
+            <element signature="e#1331#1332#0" expanded="false" />
+            <element signature="e#1359#1360#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javav-se/src/main/java/pattern/StrategyDesignDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="e#214#215#0" expanded="false" />
+            <element signature="e#255#256#0" expanded="false" />
+            <element signature="e#335#336#0" expanded="false" />
+            <element signature="e#377#378#0" expanded="false" />
+            <element signature="e#463#464#0" expanded="false" />
+            <element signature="e#491#492#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/ByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7488">
+          <caret line="317" column="6" lean-forward="false" selection-start-line="317" selection-start-column="6" selection-end-line="317" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#55847#0" expanded="false" />
+            <element signature="e#8515#8516#0" expanded="false" />
+            <element signature="e#8584#8585#0" expanded="false" />
+            <element signature="e#9208#9209#0" expanded="false" />
+            <element signature="e#9261#9262#0" expanded="false" />
+            <element signature="e#12369#12370#0" expanded="false" />
+            <element signature="e#12420#12421#0" expanded="false" />
+            <element signature="e#19972#19973#0" expanded="false" />
+            <element signature="e#20018#20019#0" expanded="false" />
+            <element signature="e#25207#25208#0" expanded="false" />
+            <element signature="e#25253#25254#0" expanded="false" />
+            <element signature="e#25815#25816#0" expanded="false" />
+            <element signature="e#25865#25866#0" expanded="false" />
+            <element signature="e#34416#34417#0" expanded="false" />
+            <element signature="e#34497#34498#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40066">
+          <caret line="1606" column="64" lean-forward="false" selection-start-line="1606" selection-start-column="64" selection-end-line="1606" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#124311#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4677#4678#0" expanded="false" />
+            <element signature="e#4714#4715#0" expanded="false" />
+            <element signature="e#5687#5688#0" expanded="false" />
+            <element signature="e#5750#5751#0" expanded="false" />
+            <element signature="e#13098#13099#0" expanded="false" />
+            <element signature="e#13150#13151#0" expanded="false" />
+            <element signature="e#18781#18782#0" expanded="false" />
+            <element signature="e#18834#18835#0" expanded="false" />
+            <element signature="e#20727#20728#0" expanded="false" />
+            <element signature="e#20771#20772#0" expanded="false" />
+            <element signature="e#21961#21962#0" expanded="false" />
+            <element signature="e#22041#22042#0" expanded="false" />
+            <element signature="e#22786#22787#0" expanded="false" />
+            <element signature="e#22821#22822#0" expanded="false" />
+            <element signature="e#23072#23073#0" expanded="false" />
+            <element signature="e#23112#23113#0" expanded="false" />
+            <element signature="e#29462#29463#0" expanded="false" />
+            <element signature="e#29533#29534#0" expanded="false" />
+            <element signature="e#36393#36394#0" expanded="false" />
+            <element signature="e#36459#36460#0" expanded="false" />
+            <element signature="e#38369#38370#0" expanded="false" />
+            <element signature="e#38423#38424#0" expanded="false" />
+            <element signature="e#47538#47539#0" expanded="false" />
+            <element signature="e#47602#47603#0" expanded="false" />
+            <element signature="e#55800#55801#0" expanded="false" />
+            <element signature="e#55844#55845#0" expanded="false" />
+            <element signature="e#56437#56438#0" expanded="false" />
+            <element signature="e#56514#56515#0" expanded="false" />
+            <element signature="e#58481#58482#0" expanded="false" />
+            <element signature="e#58518#58519#0" expanded="false" />
+            <element signature="e#62860#62861#0" expanded="false" />
+            <element signature="e#62916#62917#0" expanded="false" />
+            <element signature="e#66457#66458#0" expanded="false" />
+            <element signature="e#66495#66496#0" expanded="false" />
+            <element signature="e#70749#70750#0" expanded="false" />
+            <element signature="e#70802#70803#0" expanded="false" />
+            <element signature="e#78240#78241#0" expanded="false" />
+            <element signature="e#78299#78300#0" expanded="false" />
+            <element signature="e#82616#82617#0" expanded="false" />
+            <element signature="e#82667#82668#0" expanded="false" />
+            <element signature="e#82971#82972#0" expanded="false" />
+            <element signature="e#83020#83021#0" expanded="false" />
+            <element signature="e#94598#94599#0" expanded="false" />
+            <element signature="e#94636#94637#0" expanded="false" />
+            <element signature="e#104675#104676#0" expanded="false" />
+            <element signature="e#104730#104731#0" expanded="false" />
+            <element signature="e#111196#111197#0" expanded="false" />
+            <element signature="e#111251#111252#0" expanded="false" />
+            <element signature="e#113343#113344#0" expanded="false" />
+            <element signature="e#113370#113371#0" expanded="false" />
+            <element signature="e#117893#117894#0" expanded="false" />
+            <element signature="e#117955#117956#0" expanded="false" />
+            <element signature="e#118405#118406#0" expanded="false" />
+            <element signature="e#118444#118445#0" expanded="false" />
+            <element signature="e#119456#119457#0" expanded="false" />
+            <element signature="e#119510#119511#0" expanded="false" />
+            <element signature="e#120159#120160#0" expanded="false" />
+            <element signature="e#120213#120214#0" expanded="false" />
+            <element signature="e#120482#120483#0" expanded="false" />
+            <element signature="e#120521#120522#0" expanded="false" />
+            <element signature="e#120889#120890#0" expanded="false" />
+            <element signature="e#120932#120933#0" expanded="false" />
+            <element signature="e#121727#121728#0" expanded="false" />
+            <element signature="e#121769#121770#0" expanded="false" />
+            <element signature="e#122184#122185#0" expanded="false" />
+            <element signature="e#122223#122224#0" expanded="false" />
+            <element signature="e#122645#122646#0" expanded="false" />
+            <element signature="e#122685#122686#0" expanded="false" />
+            <element signature="e#123115#123116#0" expanded="false" />
+            <element signature="e#123156#123157#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7566">
+          <caret line="333" column="0" lean-forward="false" selection-start-line="333" selection-start-column="0" selection-end-line="333" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#53706#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#10898#11156#0" expanded="false" />
+            <element signature="e#11155#11156#0" expanded="false" />
+            <element signature="e#26565#26566#0" expanded="false" />
+            <element signature="e#26601#26602#0" expanded="false" />
+            <element signature="e#40171#40172#0" expanded="false" />
+            <element signature="e#40220#40221#0" expanded="false" />
+            <element signature="e#40917#40918#0" expanded="false" />
+            <element signature="e#40958#40959#0" expanded="false" />
+            <element signature="e#41780#41781#0" expanded="false" />
+            <element signature="e#41834#41835#0" expanded="false" />
+            <element signature="e#43077#43078#0" expanded="false" />
+            <element signature="e#43127#43128#0" expanded="false" />
+            <element signature="e#44970#44971#0" expanded="false" />
+            <element signature="e#45051#45052#0" expanded="false" />
+            <element signature="e#51559#51560#0" expanded="false" />
+            <element signature="e#51621#51622#0" expanded="false" />
+            <element signature="e#51882#51883#0" expanded="false" />
+            <element signature="e#51946#51947#0" expanded="false" />
+            <element signature="e#52191#52192#0" expanded="false" />
+            <element signature="e#52255#52256#0" expanded="false" />
+            <element signature="e#52326#52327#0" expanded="false" />
+            <element signature="e#52394#52395#0" expanded="false" />
+            <element signature="e#52670#52671#0" expanded="false" />
+            <element signature="e#52739#52740#0" expanded="false" />
+            <element signature="e#52802#52803#0" expanded="false" />
+            <element signature="e#52848#52849#0" expanded="false" />
+            <element signature="e#53097#53098#0" expanded="false" />
+            <element signature="e#53158#53159#0" expanded="false" />
+            <element signature="e#53238#53239#0" expanded="false" />
+            <element signature="e#53302#53303#0" expanded="false" />
+            <element signature="e#53360#53361#0" expanded="false" />
+            <element signature="e#53422#53423#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javav-se/src/main/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="126" column="5" lean-forward="false" selection-start-line="126" selection-start-column="5" selection-end-line="126" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25490198" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25490198" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25490198" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25490198" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>thread-learn</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25490198" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25490198" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
